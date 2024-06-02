@@ -1,13 +1,20 @@
-# CIS250_Practice
-Welcome to GitHub! The page you are on now is called a repository (think of it like a fancy folder). Each time you begin an assignemnt, a new version of this repository will be forked for you based off of the instructor's template repository. The URL of the page is what you will turn in for your submission. <br>
+# CIS250_Create02_Data Retrieval
+For this assignment you will be writing a series of queries for a library, videog game store, and car dealership. These scripts will test your ability to retrieve, filter, and sort data from a databse table. Your scripts must return the expected result as it is described. Getting the details right is the most important part of writing SQL scripts.
 
-Most of the assignment repositories will have three files: <br>
-1. ReadMe file: This file just explains the assignment and offers directors for completions. Note that it is a .md (markdown) file. This means it can only be opened with certain applications. It will likely be easiest if you read these files in GitHub. <br>
-2. ExampleOutput file: when applicable I will provide an example output for you to reference as you complete your work. You should be original in your creations and push yourself to learn something new with each assignment. TLDR, don't copy. <br>
-3. Create file: This will be the "starter" file for each assignment. You should open this in Azure Data Studio and complete it on your local computer. <br>
+## Before Starting
+1. Ensure that you have completed the practice assignment succesfully
 
-The practice assignment is very simple. All that you need to do is update a line of code in the starter file to include your name. You do not need to understand the code in this practice assignment. The purpose of this assignment is for you to be able to test your database connection before the first assignment requiring your database is due. If you run into issues with completing this assignment, reach out to your instructor as soon as possible. <br>
+## Assignment Description
+* There are a total of seven scripts that you will be writing for this assignment
+* A written business need is defined in the create file for you to base your script off of
 
-Feel free to look at the example output file to see what a final result for this project may look like. <br>
 
-To get started, make sure that you have [Git](https://git-scm.com/downloads) installed. Follow the instructions in Turning in Assignments using Github (In Canvas) to learn how to clone your online repository (the files on this page) to your local machine.
+## Assignment Requirements
+* You must write all of your scripts in the Create file and check it into github
+* For full credit your scripts must return the requested result exactly
+* You must use best practices in your scripts. Proper casing, spacing, and formatting are required.
+
+## Tips
+* The ExampleOutput.md gives the first few rows of each expected result. Edit your query until you have an exact match.
+* Remember your order of operations for both symbols like parenthesis and logical operators like and/or/not
+* If you get stuck, make a post in the Homework Help channel in Teams

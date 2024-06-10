@@ -59,7 +59,7 @@ A video game store needs a list of their titles for all platforms except for mob
 |Mass Affect|
 |Warcrafty 3|
 
-A car dealer needs to know the make, model, year, and fuel type of all cars that have a model starting with "C". The list should be sorted alphabetically by make and model with the newest models listed first.
+A car dealer needs to know the make, model, year, and fuel type of all cars that have a model starting with "C". The list should be sorted alphabetically by make and model with the newest models listed first and no duplicates.
 
 |make|model|year|fuel_type|
 |---|---|---|---|
